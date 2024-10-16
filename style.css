@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'smallcaps', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+    margin-top: 1.0em;
+    margin-bottom: 0.5;
+}
